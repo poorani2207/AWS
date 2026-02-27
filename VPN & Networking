@@ -1,0 +1,4 @@
+VPC,--->while creating VPC (subnet cidr important) it should not overlap with other vpc(vpc,subnet,rout table,nat,igw)
+Site-to-site VPN 
+
+
