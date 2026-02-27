@@ -1,4 +1,7 @@
 VPC,--->while creating VPC (subnet cidr important) it should not overlap with other vpc(vpc,subnet,rout table,nat,igw)
-Site-to-site VPN 
-
+Site-to-site VPN  
+create --Customer gateway,(ask ip from the client on-prem public ip)
+create virtual private gateway --attach VPG- TO -VPC
+set up ---site-to-site vpn(check the ip which we received from client it is (static or dynamic)
+after vpn setup---mention the client os details ,firewall details and version then download the vpn configuration file ----share the download file to client network team
 
