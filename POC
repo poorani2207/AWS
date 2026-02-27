@@ -1,1 +1,10 @@
-
+OPEN VPN setup
+Step 1 - launch open vpn server(with market place subscription ami,(check the how many users))
+Step 2 - after launching the server--connect it,then create the password --share to client
+step 3 - server public ip (click) open the page there clic advance--login via openvpn credentials which created for after server launch
+step 4- create open vpn user inside the open vpn UI
+CLIENT SIDE CONNECTING open-vpn
+step 1 - add public ip of the server(in url)
+step 2 - add user name ,password
+step 3 - connect.
+connect to mobexstrum ,ssh server ip and os-like ubuntu it will connect
